@@ -1,8 +1,8 @@
 # James Rollinson -> @fo3cus
-- 👀 I’m interested in programming, robotics, computer AI, and automation
-- 🌱 I’m currently learning software development at Northtec, but also following some beginner tutorials on neural networks using Python
+I’m interested in programming, robotics, computer AI, and automation.
+Currently I'm learning software development at Northtec, but also following some beginner tutorials on neural networks using Python.
 
-
+# 
 
 ## Things I've Used
 
