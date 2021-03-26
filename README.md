@@ -24,7 +24,7 @@
 
 ### Stats:
 
-[![James Rollinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=fo3cus)](https://github.com/anuraghazra/github-readme-stats)
+[![James Rollinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=fo3cus&show_icons=true&theme=blue-green&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 fo3cus/fo3cus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
