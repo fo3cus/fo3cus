@@ -22,11 +22,4 @@ Currently I'm learning software development at Northtec, but also following some
 
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Dropbox" src="https://img.shields.io/badge/Dropbox%20-%233B4D98.svg?&style=for-the-badge&logo=Dropbox&logoColor=white"/> <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 
-<!-- ### Stats:
-
-[![James Rollinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=fo3cus&show_icons=true&theme=blue-green&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!---
-fo3cus/fo3cus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo3cus&layout=compact)](https://github.com/fo3cus/)
