@@ -1,6 +1,6 @@
 # James Rollinson
-I’m interested in programming, robotics, computer AI, and automation.
-Currently I'm learning software development at Northtec, but also following some beginner tutorials on neural networks using Python.
+I’m interested in many tech related fields: programming, robotics, computer AI, home automation, to name a few.
+I have just completed a NZ diploma in software development at Northtec and continuing to expand my experience in my spare time.
 
 # 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fo3cus&layout=compact">
